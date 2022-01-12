@@ -1,1 +1,1 @@
-# Mukesh-Physics-Classes-Django-
+# Mukesh-Physics-Classes-Django
